@@ -24,7 +24,7 @@
 
 # 구매하기
 
-[Yes24](http://www.yes24.com/24/goods/34970929) | [교보문고](https://goo.gl/DgFHDf) | [알라딘](https://goo.gl/tKawcG) | [인터파크](https://goo.gl/iUokXU) | [반디앤루니스](https://goo.gl/zankH4)
+[Yes24](http://goo.gl/NuzyEj) | [교보문고](https://goo.gl/DgFHDf) | [알라딘](https://goo.gl/tKawcG) | [인터파크](https://goo.gl/iUokXU) | [반디앤루니스](https://goo.gl/zankH4)
 
 # 윈도우 환경에서의 트러블 슈팅 해결법
 
